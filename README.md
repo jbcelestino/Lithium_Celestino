@@ -3,4 +3,4 @@ Portfolio for computer science activities.
 
 Activities so far:
 - SG 2: Activity 3: Implementing Selection Structure - Chinese Zodiac Sign
-- SG 2: Activity 4: Code Tracing Exercise
+
