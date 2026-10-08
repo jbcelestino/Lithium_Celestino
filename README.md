@@ -1,4 +1,4 @@
-# Lithium_Celestino
+# Computer Science 3
 Portfolio for computer science activities.
 
 Activities so far:
